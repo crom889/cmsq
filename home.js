@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://api.tu18f22w.club', "_blank");
+            window.open('https://api.v25sq5l1.cc', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://api.chk55ymw.club', "_blank");
+            window.open('https://api.8bbpxg04.cc', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://api.tu18f22w.club', "_blank");
+            window.open('https://api.v25sq5l1.cc', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://api.chk55ymw.club', "_blank");
+            window.open('https://api.8bbpxg04.cc', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('https://api.tu18f22w.club', "_blank");
+            window.open('https://api.v25sq5l1.cc', "_blank");
         }
     }
     function init() {
